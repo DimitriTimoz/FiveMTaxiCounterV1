@@ -12,9 +12,9 @@ namespace Client
         //Prix minimum
         private int min = 5;
 
-        //prix du kilometre le jour (2 mins IRL)
+        //prix de l'heure le jour (2 mins IRL)
         private double perGTAHourDay = 3;
-        //prix du kilometre la nuit (2 mins IRL)
+        //prix de l'heure la nuit (2 mins IRL)
         private double perGTAHourNight = 5;
 
         //Vitesse moyenne
