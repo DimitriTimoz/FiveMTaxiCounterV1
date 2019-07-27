@@ -1,0 +1,4 @@
+C:\Users\TIMOZ DIMITRI\source\repos\TaxiCounter\build\Client.net.dll
+C:\Users\TIMOZ DIMITRI\source\repos\TaxiCounter\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\TIMOZ DIMITRI\source\repos\TaxiCounter\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\TIMOZ DIMITRI\source\repos\TaxiCounter\Client\obj\Debug\Client.net.dll
