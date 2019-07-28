@@ -81,7 +81,7 @@ namespace Client
             while (true)
             {
                 await Delay(50);
-                Player pl = new Player(1);
+                Player pl = new Player(Game.Player.Handle);
                 Vehicle vl = pl.LastVehicle;
                 if (!started)
                 {
